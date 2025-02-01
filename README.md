@@ -27,5 +27,4 @@ portfolio-website/
 │── style.css         # CSS file for styling
 │── script.js         # JavaScript file for interactivity
 │── images/           # Folder for images
-│── assets/           # Other assets (icons, fonts, etc.)
 ```
