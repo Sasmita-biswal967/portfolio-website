@@ -201,19 +201,19 @@ span{
 }
 @keyframes words{
     0%,20%{
-        content: "Data Scientist.";
+        content: "an AI / ML Engineer.";
     }
     21%,40%{
-        content: "Web Developer.";
+        content: "a Data Scientist.";
     }
     41%,60%{
-        content: "UI / UX Designer.";
+        content: "a Software Engineer.";
     }
     61%,80%{
-        content: "AI / ML Engineer.";
+        content: "a DevOps Engineer.";
     }
     81%,100%{
-        content: "Software Engineer.";
+        content: "an Entrepreneur.";
     }
 }
 @keyframes typing{
@@ -402,6 +402,12 @@ span{
     gap: 1.5rem;
     color: white;
     transition: 0.4s ease-in-out;
+}
+.project-item a {
+  color: white;
+}
+.project-item a:hover {
+  color: var(--main-color);
 }
 .project-item:hover{
     border: 3px solid var(--main-color);
@@ -609,6 +615,7 @@ span{
         grid-template-columns: repeat(1,1fr) ;
     }
 }
+
 
 
 
