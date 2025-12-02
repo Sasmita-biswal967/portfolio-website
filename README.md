@@ -1,3 +1,6 @@
+### 🌐 Live Demo
+
+👉 [Click here to view the deployed app](https://guileless-snickerdoodle-2cd108.netlify.app/)
 # portfolio-website
 A personal portfolio website built using **HTML, CSS, and JavaScript** to showcase projects, skills, and experience.
 
